@@ -1,2 +1,2 @@
 const anthem = "amr shonar bangla ami tomai valobashi";
-console.log(anthem.split(4, 10));
+console.log(anthem.split(""));
